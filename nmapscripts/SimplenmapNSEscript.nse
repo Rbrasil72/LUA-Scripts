@@ -4,7 +4,7 @@ description = [[
 This is a simple script example that determines if a port is open.
 ]]
 
-author = "Me"
+author = "Null Byte"
 
 -- RULE --
 
